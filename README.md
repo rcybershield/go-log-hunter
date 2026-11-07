@@ -27,7 +27,7 @@
 
 ### 1. Clone and Build
 ```bash
-git clone [https://github.com/rcybershield/go-log-hunter.git](https://github.com/rcybershield/go-log-hunter.git)
+git clone https://github.com/rcybershield/go-log-hunter.git
 cd go-log-hunter
 go build -o go-log-hunter main.go
 ```
